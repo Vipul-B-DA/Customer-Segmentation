@@ -1,4 +1,4 @@
-![Scatter Plot](docs/ScatterPlot%20%(feature%20%modified).png) 
+![Scatter Plot](docs/ScatterPlot%20(feature%20modified).png) 
 
 ![Silhouette Plot]()
 
